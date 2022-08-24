@@ -1,0 +1,38 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "1",
+      "createdAt": 123123,
+      "name": "Nisman",
+      "type": "DOG"
+    },
+    {
+      "id": "2",
+      "createdAt": 345345,
+      "name": "Doge",
+      "type": "CAT"
+    },
+    {
+      "id": "3",
+      "createdAt": 7457,
+      "name": "Richard Parker",
+      "type": "DOG"
+    },
+    {
+      "id": "HgBWBPsBnoZqRcnMqsJrv",
+      "createdAt": 1661366533955,
+      "name": "nisman",
+      "type": "DOG"
+    },
+    {
+      "id": "gtjJIW3No7pQgsYR5pnp0",
+      "createdAt": 1661367327685,
+      "name": "Perreke",
+      "type": "DOG"
+    }
+  ]
+}
